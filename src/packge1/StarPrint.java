@@ -1,3 +1,5 @@
+package packge1;
+
 import java.util.Scanner;
 
 /*2444번 별찍기 - 7 */

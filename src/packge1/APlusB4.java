@@ -1,3 +1,5 @@
+package packge1;
+
 import java.util.Scanner;
 
 /*10951번 A+B -4*/

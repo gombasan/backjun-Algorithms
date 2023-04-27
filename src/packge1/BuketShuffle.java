@@ -1,3 +1,5 @@
+package packge1;
+
 import java.util.Scanner;
 
 /*10821번 바구니 순서 바꾸기*/

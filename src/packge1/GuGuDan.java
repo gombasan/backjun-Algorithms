@@ -1,3 +1,5 @@
+package packge1;
+
 import java.util.Scanner;
 
 /*2739번 구구단*/

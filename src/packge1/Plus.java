@@ -1,3 +1,5 @@
+package packge1;
+
 import java.util.Scanner;
 /*8393번 합*/
 public class Plus {

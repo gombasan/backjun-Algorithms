@@ -1,3 +1,5 @@
+package packge1;
+
 import java.io.*;
 
 /*2439번 별찍기 -2*/

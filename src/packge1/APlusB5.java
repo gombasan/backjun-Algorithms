@@ -1,29 +1,24 @@
+package packge1;
+
 import java.io.*;
 import java.util.StringTokenizer;
-/*11022번 A+B -8*/
-public class APlusB8 {
+/*10952번 A+B -5*/
+public class APlusB5 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		StringBuilder sb = new StringBuilder();
 
-		int num = Integer.parseInt(br.readLine());
-
-		for (int j = 0; j < num; j++) {
+		while (true) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			int x = Integer.parseInt(st.nextToken());
 			int y = Integer.parseInt(st.nextToken());
-			sb.append("Case #")
-				.append(j + 1)
-				.append(": ")
-				.append(x)
-				.append(" + ")
-				.append(y)
-				.append(" = ")
-				.append(x + y)
-				.append("\n");
-
+			if (x + y == 0) {
+				break;
+			}
+			sb.append(x + y).append("\n");
 		}
+
 		bw.write(String.valueOf(sb));
 		bw.flush();
 

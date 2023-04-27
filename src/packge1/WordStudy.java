@@ -1,3 +1,5 @@
+package packge1;
+
 import java.util.*;
 import java.util.Map.Entry;
 /*1157번 단어 공부*/

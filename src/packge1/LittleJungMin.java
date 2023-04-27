@@ -1,3 +1,5 @@
+package packge1;
+
 import java.util.Scanner;
 
 /*11382번 꼬마정민*/

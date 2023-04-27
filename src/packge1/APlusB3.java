@@ -1,3 +1,5 @@
+package packge1;
+
 import java.util.Scanner;
 /*10950번 A+B -3*/
 public class APlusB3 {

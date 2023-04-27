@@ -1,3 +1,5 @@
+package packge1;
+
 import java.io.*;
 
 /*2562번 최댓값*/

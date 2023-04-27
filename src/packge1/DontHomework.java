@@ -1,3 +1,5 @@
+package packge1;
+
 import java.util.Scanner;
 
 /*5597번 과제 안 내신 분..?*/

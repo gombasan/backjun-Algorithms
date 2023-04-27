@@ -1,3 +1,5 @@
+package packge1;
+
 import java.io.*;
 
 /*3052번 나머지*/
